@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header__left {
+  border: 1px solid red;
+}
+.header__center {
+  border: 1px solid red;
+  display: flex;
+  align-self: center;
+}
+.header__right {
+  border: 1px solid red;
+}
